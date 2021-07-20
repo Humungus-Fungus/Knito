@@ -1,0 +1,8 @@
+README.md
+setup.py
+knito.egg-info/PKG-INFO
+knito.egg-info/SOURCES.txt
+knito.egg-info/dependency_links.txt
+knito.egg-info/top_level.txt
+pylib/__init__.py
+pylib/myfuncs.py
